@@ -1,0 +1,36 @@
+﻿a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: keep-all;
+  font-size: 40px;
+  font-weight: bold;
+  color: antiquewhite;
+  line-height: 40px;
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.box-shadow {
+  box-shadow: 0 .1rem 1.5rem rgb(0, 0, 0, 0.6);
+}
+
+.customHover {
+    line-height: 15px;
+    padding: 0.5rem;
+}
+
+.customHover:hover {
+    color: white;
+}
+
+.customHover {
+    color: black;
+}
