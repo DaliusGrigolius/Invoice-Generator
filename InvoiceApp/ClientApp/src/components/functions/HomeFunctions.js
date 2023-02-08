@@ -4,7 +4,7 @@
     { description: "Click Invoice Generator", width: "37.5%" },
     { description: "Select Provider", width: "50%" },
     { description: "Select Client", width: "62.5%" },
-    { description: "Select Products/Services", width: "75%" },
+    { description: "Select Products / Services", width: "75%" },
     { description: "Click Generate Invoice", width: "87.5%" },
     { description: "Print / Download your Invoice", width: "100%" },
 ];

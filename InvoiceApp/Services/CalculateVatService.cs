@@ -37,7 +37,7 @@ namespace InvoiceApp.Services
                 return 0;
             if (providerIsVatPayer && providerCountry?.Name == clientCountry?.Name)
                 return GetVatRateByCountry(providerCountryCode);
-            return 0.1;
+            return 0;
         }
 
         private double GetVatRateByCountry(string countryCode)

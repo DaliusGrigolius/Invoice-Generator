@@ -5,7 +5,7 @@ namespace InvoiceApp.Services
 {
     public class CountryService : ICountryService
     {
-        private List<CountriesModel> Countries { get; set; } = new ();
+        private List<CountriesModel>? Countries { get; set; } = new ();
 
         public CountryService()
         {
