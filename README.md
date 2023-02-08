@@ -1,7 +1,11 @@
 # Invoice Generator
+
 Created with "ASP.NET Core with React.js" project and using .NET 7 version.
+- FrontEnd: React JS, Bootstrap.
+- BackEnd: C# .Net Core. Testing with xUnit and NSubstitute.
 
 ## Features added
+
 - Add service provider / client
 - Add product / service
 - Select provider / service
@@ -19,7 +23,8 @@ Created with "ASP.NET Core with React.js" project and using .NET 7 version.
 - Print / Download Invoice
 
 ## Notes
-Main focus was to get my hands on "ASP.NET Core with React.js" project and learn how the "things" working there(f.e. passing data back and forth, opening component in a new window tab and printing / downloading it and so on). So, i mean styling and input checking was in the second plan. Ofcourse there is mistakes and other "bad" stuff in this project but im really happy that i invested some time in it. Learning is fun!
+
+Main focus was to get my hands on "ASP.NET Core with React.js" project and learn how the "things" working there(f.e. passing data back and forth, opening component in a new window tab and printing / downloading it, getting to know NSubstitute and so on). So, i mean styling and input checking was in the second plan. Ofcourse there is mistakes and other "bad" stuff in this project but im really happy that i invested some time in it. Learning is fun!
 P.S. Don't shy away from constructive criticism, I'm especially looking forward to advice on how and what could have been done better.
 
 ## Images
